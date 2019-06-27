@@ -1,0 +1,277 @@
+
+
+
+
+.container {
+    display: grid;
+    grid-template-columns: 60px 60px 60px 60px 60px 60px 60px 60px;
+    grid-template-rows: 60px 60px 60px 60px 60px 60px 60px 60px;
+    border: 40px;
+    border-color: saddlebrown;
+}
+
+
+
+.B_1 {
+
+    background-color: grey
+}
+
+.W_2 {
+
+    background-color: darkred
+}
+
+.B_3 {
+
+    background-color: grey
+}
+
+.W_4 {
+
+    background-color: darkred
+}
+
+.B_5 {
+
+    background-color: grey
+}
+
+.W_6 {
+
+    background-color: darkred
+}
+
+.B_7 {
+
+    background-color: grey
+}
+
+.W_8 {
+
+    background-color: darkred
+}
+
+.W_9 {
+    background-color: darkred
+}
+
+.B_10 {
+    background-color: grey
+}
+
+.W_11 {
+    background-color: darkred
+}
+
+.B_12 {
+    background-color: grey
+}
+
+.W_13 {
+    background-color: darkred
+}
+
+.B_14 {
+    background-color: grey
+}
+
+.W_15 {
+    background-color: darkred
+}
+
+.B_16 {
+    background-color: grey
+}
+
+.B_17 {
+    background-color: grey
+}
+
+.W_18 {
+    background-color: darkred
+}
+
+.B_19 {
+    background-color: grey
+}
+
+.W_20 {
+    background-color: darkred
+}
+
+.B_21 {
+    background-color: grey
+}
+
+.W_22 {
+    background-color: darkred
+}
+
+.B_23 {
+    background-color: grey
+}
+
+.W_24 {
+    background-color: darkred
+}
+
+.W_25 {
+    background-color: darkred
+}
+
+.B_26 {
+    background-color: grey
+}
+
+.W_27 {
+    background-color: darkred
+}
+
+.B_28 {
+    background-color: grey
+}
+
+.W_29 {
+    background-color: darkred
+}
+
+.B_30 {
+    background-color: grey
+}
+
+.W_31 {
+    background-color: darkred
+}
+
+.B_32 {
+    background-color: grey
+}
+
+.B_33 {
+    background-color: grey
+}
+
+.W_34 {
+    background-color: darkred
+}
+
+.B_35 {
+    background-color: grey
+}
+
+.W_36 {
+    background-color: darkred
+}
+
+.B_37 {
+    background-color: grey
+}
+
+.W_38 {
+    background-color: darkred
+}
+
+.B_39 {
+    background-color: grey
+}
+
+.W_40 {
+    background-color: darkred
+}
+
+.W_41 {
+    background-color: darkred
+}
+
+.B_42 {
+    background-color: grey
+}
+
+.W_43 {
+    background-color: darkred
+}
+
+.B_44 {
+    background-color: grey
+}
+
+.W_45 {
+    background-color: darkred
+}
+
+.B_46 {
+    background-color: grey
+}
+
+.W_47 {
+    background-color: darkred
+}
+
+.B_48 {
+    background-color: grey
+}
+
+.B_49 {
+    background-color: grey
+}
+
+.W_50 {
+    background-color: darkred
+}
+
+.B_51 {
+    background-color: grey
+}
+
+.W_52 {
+    background-color: darkred
+}
+
+.B_53 {
+    background-color: grey
+}
+
+.W_54 {
+    background-color: darkred
+}
+
+.B_55 {
+    background-color: grey
+}
+
+.W_56 {
+    background-color: darkred
+}
+
+.W_57 {
+    background-color: darkred
+}
+
+.B_58 {
+    background-color: grey
+}
+
+.W_59 {
+    background-color: darkred
+}
+
+.B_60 {
+    background-color: grey
+}
+
+.W_61 {
+    background-color: darkred
+}
+
+.B_62 {
+    background-color: grey
+}
+
+.W_63 {
+    background-color: darkred
+}
+
+.B_64 {
+    background-color: grey
+}
